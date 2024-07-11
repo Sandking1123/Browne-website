@@ -654,6 +654,7 @@ a {
 
 .projects__list-item-img {
   width: 100%;
+  height: 350px;
   display: block;
 }
 
@@ -919,7 +920,7 @@ a {
   margin-bottom: 10px;
 }
 .main-footer__contacts h1 {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .main-footer__contacts span {
